@@ -1,6 +1,6 @@
 # Book Store API Assignment
 
-This is a Java Spring Boot RESTful API project for managing a bookstore. It implements core CRUD operations, relational data mapping between Books and Authors, global exception handling, and includes Swagger for interactive API documentation.
+This is the Java Spring Boot RESTful API project for the Ejada bookstore Internship Task number 1. It implements core CRUD operations, relational data mapping between Books and Authors, global exception handling, and includes Swagger for interactive API documentation.
 
 ## Prerequisites
 
